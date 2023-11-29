@@ -7,8 +7,7 @@
         const average = sum/arr.length;
         return average;
     }
-
- }
+}
 
  const num=[7,9,20,89];
  const average=ArrayAverage(num);
